@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    background-image: url(assets/43040-Batman.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:beige;
+}
+
+img{
+    height: 290px;
+    border: 5px solid white;
+    border-bottom: ;
+    border-radius: 20px;
+}
+
+p{ 
+    color: rgb(241, 241, 158);   
+}
+
+h1 { 
+    font-style:inherit;
+    color:lightskyblue;
+    
+}
