@@ -8,16 +8,24 @@ body {
 
 img{
     height: 290px;
-    border: 5px solid white;
+    border: 5px solid rgb(231, 223, 108);
     border-radius: 20px;
 }
 
 p{ 
-    color: rgb(241, 241, 158);   
+    color: lightskyblue;
 }
 
 h1 { 
     font-style:inherit;
-    color:lightskyblue;
+    color:rgb(164, 195, 231);
     
+}
+
+h3{
+    color: rgb(236, 214, 90);
+}
+
+h4{
+    color:rgb(107, 103, 103);
 }
