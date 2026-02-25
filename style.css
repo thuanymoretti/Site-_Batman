@@ -8,24 +8,30 @@ body {
 
 img{
     height: 290px;
-    border: 5px solid rgb(231, 223, 108);
+    border: 5px solid rgb(97, 96, 86);
     border-radius: 20px;
 }
 
 p{ 
-    color: lightskyblue;
+    color: rgb(128, 123, 105);
 }
 
 h1 { 
     font-style:inherit;
-    color:rgb(164, 195, 231);
-    
+    color:rgb(164, 195, 231);  
 }
 
+h2{ 
+    color: rgb(255, 255, 114)
+}
 h3{
-    color: rgb(236, 214, 90);
+    color: rgb(190, 173, 73);
 }
 
 h4{
     color:rgb(107, 103, 103);
+}
+
+a{
+    color:rgb(62, 52, 190)
 }
